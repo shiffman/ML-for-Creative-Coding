@@ -36,7 +36,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ## Course Description
 
-Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world help us to create digital worlds? This course focuses on the programming strategies and techniques behind computer simulations of natural systems. Topics explored range from mathematics and physics to simulations of complex systems. Subjects covered include motion, forces, trigonometry, fractals, cellular automata, genetic algorithms, and neural networks. Examples are demonstrated in JavaScript using the p5.js library. This course requires Introduction to Computational Media or equivalent (one semester of programming experience.)
+This introductory course provides students with practical experience in developing creative coding projects using machine learning. The class begins with a focus on p5.js and ml5.js, then progresses to other open-source frameworks like TensorFlow.js and Transformers.js. Students will learn how to work with pre-trained models, apply transfer learning and fine-tuning to those models, as well as train their own models from the ground up. The course will also cover writing server-side applications with node.js to connect to cloud-based APIs, often necessary for working with cloud-hosted models for generative text and images. Alongside technical demonstrations and weekly practical exercises, the course includes readings and discussions on ethics, bias in machine learning, data collection best practices, and responsible model training. Students will build a final project incorporating machine learning.
 
 ## Perspectives and Learning Modes
 
@@ -49,10 +49,6 @@ You all enter this classroom with different sets of skills. My office hours are 
 ## Equipment
 
 You will need a modern laptop (4 years old or younger is a good rule of thumb). Limited numbers are available for checkout from the department. Any required software for this course will be freely available.
-
-## Course Texts
-
-See [The Nature of Code](https://natureofcode.com/)!
 
 ## Teaching Style
 

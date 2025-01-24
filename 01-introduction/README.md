@@ -1,29 +1,20 @@
 # Introduction
 
-- [Introduction Slides](https://docs.google.com/presentation/d/1SmQ__RbL81uQZLVJvSLe8VBZSFhi5Pzm27JhzMnd55w/edit?usp=sharing)
-- [Transfer Learning Slides](https://docs.google.com/presentation/d/1rqPmBqJaiRI_np2szc-F74778HXyZyNeVYHQsdVdeis/edit?usp=sharing)
-
+- [Introduction Slides](https://docs.google.com/presentation/d/1JzMMtg9QbRyOsE14DsPpDvONBW3-dHS7o11HLDj5T2c/edit?usp=sharing)
 - [Example Sketches](https://editor.p5js.org/ml_4_cc/collections/bUBxPzueE)
 
 ## Objectives
 
 - Define Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL).
-- Learn about the history of machine learning.
 - Overview of applications of machine learning, especially for art and design.
 - Learn about the tools for machine learning.
 - Understand the difference between classification and regression.
-- Understand the concept of a “machine learning model”.
 - What is a “[pre-trained model](https://docs.ml5js.org/#/learn/ml5-glossary?id=pretrained-model)”?
-- What does it mean to discuss the “architecture” of a machine learning model?
-- Define and diagram an artificial neural network.
 - Understand what [ml5.js](https://ml5js.org/about/) is and how it fits into the TensorFlow and open source machine learning library ecosystem.
 - Learn how to create an image classifier with ml5.js and [MobileNet](https://docs.ml5js.org/#/learn/ml5-glossary?id=mobilenet).
 - Understand how the MobileNet model was trained, specifically the origins and collection methodology for the training.
-- Diagram and define the layers of a neural network, introducing the concept of a “convolutional layer”.
 - Distinguish between a “feature vector” (aka logits) and the last layer (aka softmax probabilities) of a classification network.
 - Understand the process of “transfer learning”.
-- Learn about k-nearest neighbors algorithm (_k_-NN).
-- Learn to save a trained model for re-use later.
 
 ### Tools
 
