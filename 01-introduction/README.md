@@ -25,11 +25,13 @@
 
 ### Code Examples
 
-- [Image Classification - Single Image](https://editor.p5js.org/ml_4_cc/sketches/D71CzHMXL)
-- [Image Classification - Drag and Drop Image](https://editor.p5js.org/ml_4_cc/sketches/Y8fFLERev)
-- [Image Classification - Video](https://editor.p5js.org/ml_4_cc/sketches/-Sr0UJPKC)
-- [Image Classification - Video with Speech Output](https://editor.p5js.org/ml_4_cc/sketches/wDgNVJPKx)
-- [ml5.js + Teachable Machine Video Example](https://editor.p5js.org/ml_4_cc/sketches/UeAjLnXQz)
+- [Image Classification - Single Image (ml5.js)](https://editor.p5js.org/ml_4_cc/sketches/D71CzHMXL)
+- [Image Classification - Drag and Drop Image (ml5.js)](https://editor.p5js.org/ml_4_cc/sketches/Y8fFLERev)
+- [Image Classification - Video (ml5.js)](https://editor.p5js.org/ml_4_cc/sketches/-Sr0UJPKC)
+- [Image Classification - Video with Speech Output (ml5.js)](https://editor.p5js.org/ml_4_cc/sketches/wDgNVJPKx)
+- [Teachable Machine Image (ml5.js)](https://editor.p5js.org/ml_4_cc/sketches/UeAjLnXQz)
+- [Object Detection - Single Image (TensorFlow.js)](https://editor.p5js.org/ml_4_cc/sketches/mnLF9Iu4V)
+- [Object Detection - Video (TensorFlow.js)](https://editor.p5js.org/ml_4_cc/sketches/-Yt7vSA5U)
 
 ### ml5.js Video Tutorials
 
@@ -43,6 +45,7 @@
 - [ImageNet: The Data That Transformed AI Research—and Possibly the World](https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/) by Dave Gershgorn.
 - [How we teach computers to understand pictures](https://www.youtube.com/watch?v=40riCqvRoMs) by Fei-Fei Li
 - [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen.
+- [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt.
 
 ### Related Projects
 
@@ -60,7 +63,8 @@
 
 ## Assignment
 
-1. Explore [ImageNet](http://image-net.org/index), [ImageNet sample images](https://github.com/EliSchwartz/imagenet-sample-images/blob/master/gallery.md), [Kaggle ImageNet Mini 1000](https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000). What surprises you about this data set? What questions do you have?
-2. Using the [code examples above](#code-examples), try running image classification on a variety of images. What does the model recognize properly? What does it not recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc. You are welcome to use the provided examples as they are or modify the code to create interactive experience that reflects your creativity and curiosity! Read and reflect on [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen.
-3. Train your own image classifier using Teachable Machine and apply the model to an interactive p5.js sketch. Feel free to try sound instead of or in addition to images.
-4. Document your thoughts and coding exercises in a post and add a link on the [Assignment 1 Wiki page](https://github.com/shiffman/ML-for-Creative-Coding/wiki).
+1. Explore [ImageNet](http://image-net.org/index), [ImageNet sample images](https://github.com/EliSchwartz/imagenet-sample-images/blob/master/gallery.md), and [COCO-dataset](https://cocodataset.org/).
+2. Read and reflect on [Excavating AI: The Politics of Images in Machine Learning Training Sets](https://www.excavating.ai) by Kate Crawford and Trevor Paglen and [Humans of AI](https://humans-of.ai/editorial) by Philipp Schmitt.
+3. Using the [code examples above](#code-examples), try running image classification or object detection on a variety of images or video What do the models recognize properly? What do they not recognize? What other aspects of the image affect the classification, including but not limited to position, scale, lighting, etc.
+4. Train your own image classifier using Teachable Machine and apply the model to an interactive p5.js sketch. Feel free to try sound instead of or in addition to images.
+5. Document your thoughts and coding exercises in a post and add a link on the [Assignment 1 Wiki page](https://github.com/shiffman/ML-for-Creative-Coding/wiki).
