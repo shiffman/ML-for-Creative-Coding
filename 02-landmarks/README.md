@@ -42,7 +42,6 @@
 
 - [HandPose - Keypoints](https://editor.p5js.org/codingtrain/sketches/o5wnL6esQ)
 - [HandPose - Painting](https://editor.p5js.org/codingtrain/sketches/LCEHJm6PA)
-- [Simple painting](https://editor.p5js.org/codingtrain/sketches/3VcKxx_GY)
 - [HandPose Painting - Stroke Weight](https://editor.p5js.org/codingtrain/sketches/-C3Og5Wzs)
 - [HandPose Painting - Color](https://editor.p5js.org/codingtrain/sketches/InzaVXI-R)
 - [HandPose - Thumbs up or Thumbs Down](https://editor.p5js.org/codingtrain/sketches/0_qPHtsF_)
