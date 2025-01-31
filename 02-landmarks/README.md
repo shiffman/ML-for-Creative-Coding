@@ -69,6 +69,7 @@
 - [FaceMesh - Centered Face](https://editor.p5js.org/codingtrain/sketches/DGEuFKf87)
 - [FaceMesh - Triangles](https://editor.p5js.org/codingtrain/sketches/EjIrb89WY)
 - [FaceMesh - Texture Map](https://editor.p5js.org/codingtrain/sketches/zUKp9n4MW)
+- [FaceMesh - Texture Map 3D](https://editor.p5js.org/codingtrain/sketches/A_Otr_lEo)
 - [FaceMesh - Blow Bubbles](https://editor.p5js.org/codingtrain/sketches/Mf74RjP92)
 - [FaceMesh - Stretch and Skew](https://editor.p5js.org/codingtrain/sketches/tS6bxPzmE)
  
