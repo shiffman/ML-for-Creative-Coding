@@ -6,7 +6,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 1: Jan 24 - [Introduction](01-introduction)
 
-### 2: Jan 31 - Landmark Detection Models
+### 2: Jan 31 - [Landmark Detection Models](02-landmarks)
 
 ### 3: Feb 7 - Image Segmentation Models
 
