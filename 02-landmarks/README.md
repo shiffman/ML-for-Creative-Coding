@@ -72,6 +72,12 @@
 - [FaceMesh - 3D](https://editor.p5js.org/codingtrain/sketches/zUKp9n4MW)
 - [FaceMesh - Blow Bubbles](https://editor.p5js.org/codingtrain/sketches/Mf74RjP92)
 - [FaceMesh - Stretch and Skew](https://editor.p5js.org/codingtrain/sketches/tS6bxPzmE)
+ 
+### 🎥 Video Tutorials
+
+- [Face Mesh with ml5.js](https://youtu.be/R5UZsIwPbJA), [Code & References](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/facemesh)
+- [Interactive Dandelion (with ml5.js - faceMesh)](https://youtu.be/FlBRSIz5AcQ) by Patt Vira
+
 
 ## 🎨 Artistic Inspiration
 
