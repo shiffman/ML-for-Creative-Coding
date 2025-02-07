@@ -2,7 +2,15 @@
 
 - [Image Segmentation Slides](https://docs.google.com/presentation/d/17HjMxSuYw2DV3VI_i2zbg9ytQqoKJ7EuPjRZCoERWOI/edit?usp=sharing)
 
-## Technical References
+## p5.js and pixels
+
+- 🚂 [2016 Pixel Array Video Tutorial](https://youtu.be/nMUMZ5YRxHI)
+- 🎥 [Image Pixelation in p5.js](https://youtu.be/ounnzeu0NQw) by Jack B. Du
+- 📋 [p5.js pixel array documentation](https://p5js.org/reference/p5/pixels/)
+- 📋 [p5.js mask()](https://p5js.org/reference/p5.Image/mask/)
+- 📋 [p5.js createImage()](https://p5js.org/reference/p5/createImage/)
+
+## Image Segmentation in JS
 
 ### ml5.js
 
