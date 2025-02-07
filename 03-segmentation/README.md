@@ -29,6 +29,7 @@
 - [Hugging Face Hub: Image Segmentation Models for Transformers.js](https://huggingface.co/models?pipeline_tag=image-segmentation&library=transformers.js&sort=trending)
 - [Segment Anything Demo](https://huggingface.co/spaces/webml-community/segment-anything-webgpu)
 - [Background Removal Demo](https://huggingface.co/spaces/Xenova/remove-background-webgpu)
+- [Depth Anything Demo](https://huggingface.co/spaces/Xenova/webgpu-depth-anything)
 
 ## 💻 Code Examples
 
