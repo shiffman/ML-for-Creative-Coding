@@ -8,7 +8,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 2: Jan 31 - [Landmark Detection Models](02-landmarks)
 
-### 3: Feb 7 - Image Segmentation Models
+### 3: Feb 7 - [Image Segmentation Models](03-segmentation)
 
 ### 4: Feb 14 - Training a Neural Network
 
