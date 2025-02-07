@@ -48,6 +48,7 @@
 ### Transformers.js
 
 - [Image Segmentation Pipeline](https://editor.p5js.org/ml_4_cc/sketches/GjxcVAXZz)
+- [Also, depth estimation!](https://editor.p5js.org/ml_4_cc/sketches/WwjFdBMO3) - it's kind of like image segmentation?
 
 ## 📚 Assignment
 
