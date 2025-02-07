@@ -2,9 +2,7 @@
 
 - [Image Segmentation Slides](https://docs.google.com/presentation/d/17HjMxSuYw2DV3VI_i2zbg9ytQqoKJ7EuPjRZCoERWOI/edit?usp=sharing)
 
-## 🖼️ Image Segmentation
-
-### 📌 Technical References
+## Technical References
 
 ### ml5.js
 
@@ -24,7 +22,7 @@
 - [Segment Anything Demo](https://huggingface.co/spaces/webml-community/segment-anything-webgpu)
 - [Background Removal Demo](https://huggingface.co/spaces/Xenova/remove-background-webgpu)
 
-### 💻 Code Examples
+## 💻 Code Examples
 
 ### ml5.js
 
