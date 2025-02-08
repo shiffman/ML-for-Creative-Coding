@@ -63,7 +63,16 @@ While `async` and `await` are not currently part of p5.js, they can still be use
 - [Image Segmentation Pipeline](https://editor.p5js.org/ml_4_cc/sketches/xEvvqdOQX)
 - [Also, depth estimation!](https://editor.p5js.org/ml_4_cc/sketches/WwjFdBMO3) - it's kind of like image segmentation?
 
+## Other Reference and Inspiration
+
+- 📃 [Computer Vision for Artists and Designers](https://www.flong.com/archive/texts/essays/essay_cvad/index.html) by Golan Levin
+- 🎨 [Shadow Monsters](https://www.moma.org/collection/works/110196) by Philip Worthington, [Video from Installation](https://youtu.be/XNHv6VryB8o)
+- 🎨 [Text Rain](https://camilleutterback.com/projects/text-rain/) by Camille Utterback and Romy Achituv
+- 📋 [Beginner’s Guide to Image Segmentation](https://www.v7labs.com/blog/image-segmentation-guide) by V7 Labs
+- 📋 [Segment Anything Model (SAM)](https://segment-anything.com/) by Meta AI
+
 ## 📚 Assignment
 
-- TBD
-- Document your process and share it on the [Assignment 3 Wiki](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-3)
+- Read [Computer Vision for Artists and Designers](https://www.flong.com/archive/texts/essays/essay_cvad/index.html).
+- Experiment with the provided code examples using ml5.js, TensorFlow.js, or Transformers.js. Try applying the models to different images and videos. Can you think of a creative way to integrate image segmentation into an interactive project?
+- Document your experiments and share it on the [Assignment 3 Wiki](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-3).
