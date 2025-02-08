@@ -10,6 +10,18 @@
 - 📋 [p5.js mask()](https://p5js.org/reference/p5.Image/mask/)
 - 📋 [p5.js createImage()](https://p5js.org/reference/p5/createImage/)
 
+## Async and Await
+
+The TensorFlow.js and Transformers.js examples below make extensive use of the `async` and `await` keywords. These are JavaScript features that simplify handling asynchronous operations, such as loading machine learning models or processing image data.
+
+While `async` and `await` are not currently part of p5.js, they can still be used in a p5.js sketch. However, p5.js **2.0** will introduce official support for `async` functions.
+
+### Learn More:
+
+- 🎥 [Async & Await Video](https://youtu.be/XO77Fib9tSI?list=PLRqwX-V7Uu6bKLPQvPRNNE65kBL62mVfx) – A standalone video from a larger playlist on Promises. To understand the full context, go back two videos in the playlist.
+- 📖 [MDN Docs: Async Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+- 📖 [MDN Docs: Await Expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+
 ## Image Segmentation in JS
 
 ### ml5.js
@@ -48,7 +60,7 @@
 
 ### Transformers.js
 
-- [Image Segmentation Pipeline](https://editor.p5js.org/ml_4_cc/sketches/GjxcVAXZz)
+- [Image Segmentation Pipeline](https://editor.p5js.org/ml_4_cc/sketches/xEvvqdOQX)
 - [Also, depth estimation!](https://editor.p5js.org/ml_4_cc/sketches/WwjFdBMO3) - it's kind of like image segmentation?
 
 ## 📚 Assignment
