@@ -36,6 +36,12 @@ While `async` and `await` are not currently part of p5.js, they can still be use
 - [Deeplab v3 paper: Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587v3)
 - [Semantic Segmentation in the Browser: DeepLab v3 Model](https://github.com/tensorflow/tfjs-models/tree/master/deeplab)
 
+#### DeepLabv3 Model Variants and Datasets
+
+- [Pascal VOC 2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) - This dataset includes 20 object categories such as person, animal, vehicle, and indoor objects.
+- [ADE20K](https://github.com/CSAILVision/ADE20K) - A more diverse dataset with 150 classes, including a wide range of scenes and object categories.
+- [Cityscapes](https://www.cityscapes-dataset.com/) - Focused on urban street scenes, this dataset contains 30 classes related to road environments.
+
 ### Transformers.js
 
 - [Hugging Face Hub: Image Segmentation Models for Transformers.js](https://huggingface.co/models?pipeline_tag=image-segmentation&library=transformers.js&sort=trending)
