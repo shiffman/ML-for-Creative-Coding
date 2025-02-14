@@ -15,6 +15,8 @@
 - [Chapter 10: Neural Network, Nature of Code](https://natureofcode.com/book/chapter-10-neural-networks/) by Daniel Shiffman.
 - [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown.
 - [The 7 steps of machine learning](https://www.youtube.com/watch?v=nKW8Ndu7Mjw) from Google Cloud Tech.
+- [A Brief History of Neural Nets and Deep Learning](https://www.skynettoday.com/overviews/neural-net-history) by Andrey Kurenkov
+- [Neural Network History Wiki](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Neural-Network-History)
 
 ## Video Tutorials
 
