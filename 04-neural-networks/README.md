@@ -1,0 +1,42 @@
+# Training a Neural Network
+
+- [Neural Network Slides](https://docs.google.com/presentation/d/1NqBjHPStaYl2vlZKPisLp4XsyHatoUFvFk-HpQig6ns/edit?usp=sharing)
+
+## ml5.neuralNetwork()
+
+- [ml5.neuralNetwork() Reference](https://docs.ml5js.org/#/reference/neural-network)
+- [NeuralNetwork - Color Classifier](https://editor.p5js.org/ml5/sketches/eGHBdmCLe)
+- [NeuralNetwork - Mouse Gesture](https://editor.p5js.org/ml5/sketches/FdXAgrA3N)
+- [NeuralNetwork - Train and Save](https://editor.p5js.org/ml5/sketches/rR51vvi-u)
+- [NeuralNetwork - Load Model](https://editor.p5js.org/ml5/sketches/U-aljtx7x)
+
+## Supplemental Materials
+
+- [Chapter 10: Neural Network, Nature of Code](https://natureofcode.com/book/chapter-10-neural-networks/) by Daniel Shiffman.
+- [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown.
+- [The 7 steps of machine learning](https://www.youtube.com/watch?v=nKW8Ndu7Mjw) from Google Cloud Tech.
+
+## Video Tutorials
+
+### Neural Network Concepts
+
+These videos are about the core concepts behind neural networks and do not use ml5.js or other ML libraries.
+
+- [Neural Networks: Perceptron (2 parts) - video tutorial](https://thecodingtrain.com/tracks/neural-networks/neural-networks/2-perceptron-part-1)
+- [Neural Networks: Multilayer Perceptron (2 parts) - video tutorial](https://thecodingtrain.com/tracks/neural-networks/neural-networks/4-multilayer-perceptron-part-1).
+- [Neural Networks: Matrix Math](https://thecodingtrain.com/tracks/neural-networks/neural-networks/6-matrix-math-basics) by Daniel Shiffman.
+
+### ml5.js Neural Network
+
+🚨 _These ml5.js tutorials use an older version of ml5.js, while the concepts and ideas are still relevant the syntax has changed. We will be covering how to to train a neural network using pose detection data in class! The [ml5.js FAQ](https://docs.ml5js.org/#/welcome/faq?id=what-happened-to-older-ml5js-releases) includes additional information._ 🚨
+
+- [ml5.js: Train Your Own Neural Network - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/6-train-your-own-neural-network/1-train-the-model)
+- [ml5.js: Save Neural Network Training Data - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/6-train-your-own-neural-network/2-save-data)
+- [ml5.js: Save Neural Network Model - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/6-train-your-own-neural-network/3-save-model)
+- [ml5: Neural Network Regression - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/6-train-your-own-neural-network/4-regression)
+- [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork() - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-posenet/2-pose-classifier)
+- [ml5.js: Pose Regression with PoseNet and ml5.neuralNetwork() - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-posenet/3-pose-regression)
+
+## Assignment
+
+- TBD

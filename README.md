@@ -10,7 +10,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 3: Feb 7 - [Image Segmentation Models](03-segmentation)
 
-### 4: Feb 14 - Training a Neural Network
+### 4: Feb 14 - [Training a Neural Network](04-neural-networks)
 
 ### 5: Feb 21 - Tensorflow.js
 
