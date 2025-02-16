@@ -59,7 +59,9 @@ As a class, we are working towards **March 7th**, where everyone will share a pr
      Is this a _classification_ or _regression_ problem? It's okay if you're unsure!  
 
    - **What challenges do you anticipate?**  
-     These could be technical, ethical, or creative obstacles related to data collection, bias, implementation, or user interaction.  
+     These could be technical, ethical, or creative obstacles related to data collection, bias, implementation, or user interaction.
+
+4. If you're feeling inspired, start prototyping your idea! You could create a p5.js sketch that collects sample data or explore how a user might interact with your system before training the model.
 
 Document your idea and share it on the [Assignment 4 Wiki](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-4).
 
