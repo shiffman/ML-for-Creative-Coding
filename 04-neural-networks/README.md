@@ -39,6 +39,28 @@ These videos are about the core concepts behind neural networks and do not use m
 - [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork()](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-posenet/2-pose-classifier)
 - [ml5.js: Pose Regression with PoseNet and ml5.neuralNetwork()](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-posenet/3-pose-regression)
 
-## Assignment
+## Assignment  
 
-- TBD
+As a class, we are working towards **March 7th**, where everyone will share a project that applies concepts from the first half of the semester (_pre-trained models with ml5.js, TensorFlow.js, transformers.js_). While training your own model is not required for this project, this week's assignment asks you to imagine an application that would.  
+
+1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397) by Dr. Rebecca Fiebrink (Eyeo 2018). Reflect on the question: _How can machine learning support and expand creative practices?_  
+
+2. Read [A Brief History of Neural Nets and Deep Learning](https://www.skynettoday.com/overviews/neural-net-history) by Andrey Kurenkov.  
+
+3. Write a short blog post describing a creative application that requires training a custom model. Address the following:  
+
+   - **What is the input?**  
+     What data will your model take in? Consider sources such as sensors, body/face/hand keypoints, images, sound, or text. 
+     
+   - **What is the output?**  
+     What will your model predict or generate? Are you classifying labels, predicting continuous values, or something else?  
+
+   - **What kind of learning task is it?**  
+     Is this a _classification_ or _regression_ problem? It's okay if you're unsure!  
+
+   - **What challenges do you anticipate?**  
+     These could be technical, ethical, or creative obstacles related to data collection, bias, implementation, or user interaction.  
+
+Document your idea and share it on the [Assignment 4 Wiki](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-4).
+
+
