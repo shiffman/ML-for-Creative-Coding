@@ -10,11 +10,11 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 3: Feb 7 - [Image Segmentation Models](03-segmentation)
 
-### 4: Feb 14 - [Training a Neural Network](04-neural-networks)
+### 4: Feb 14 - [Training a Neural Network I](04-neural-networks)
 
-### 5: Feb 21 - Tensorflow.js
+### 4: Feb 14 - [Training a Neural Network II](05-cnns)
 
-### 6: Feb 28 - Feature Extraction and Embeddings
+### 6: Feb 28 - TensorFlow.js and Feature Extraction
 
 ### 7: Mar 7 - Mid Semester Project Presentations
 
