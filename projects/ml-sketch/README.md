@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Documentation and Presentation
 
-Document your project in a blog post and come prepared to share your work for ~5 minutes. You are not required to have a slide deck, but you might find slides useful to help you plan and structure your demo. Add a link to your documentation to the [wiki page](link to come).
+Document your project in a blog post and come prepared to share your work for ~5 minutes. You are not required to have a slide deck, but you might find slides useful to help you plan and structure your demo. [Add a link to your documentation to the wiki page](https://github.com/shiffman/ML-for-Creative-Coding/wiki/ML-Sketch).
 
 Consider including:
 

@@ -55,4 +55,4 @@
 
 ## Assignment
 
-- Start working on the [ML Sketch project](projects/ml-sketch), due March 7th.
+- Start working on the [ML Sketch project](https://github.com/shiffman/ML-for-Creative-Coding/blob/main/projects/ml-sketch/README.md), due March 7th.
