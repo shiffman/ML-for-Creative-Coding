@@ -52,3 +52,7 @@
 - [Training a Handwritten Digit Classifier](https://editor.p5js.org/ml_4_cc/sketches/7U2weZqlw)
 - [Training a Webcam Image Classifier with Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/7Y6VDvUO6) (Example by Jack Du!)
 - [Doodle Classification with DoodleNet](https://editor.p5js.org/ml_4_cc/sketches/Onmo6Ghc5) (model trained by [@yining1023](https://github.com/yining1023))
+
+## Assignment
+
+- Start working on the [ML Sketch project](projects/ml-sketch), due March 7th.
