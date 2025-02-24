@@ -12,7 +12,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 4: Feb 14 - [Training a Neural Network I](04-neural-networks)
 
-### 4: Feb 14 - [Training a Neural Network II](05-cnns)
+### 4: Feb 21 - [Training a Neural Network II](05-cnns)
 
 ### 6: Feb 28 - TensorFlow.js and Feature Extraction
 
