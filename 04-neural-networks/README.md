@@ -1,6 +1,7 @@
 # Training a Neural Network
 
 - [Neural Network Slides](https://docs.google.com/presentation/d/1NqBjHPStaYl2vlZKPisLp4XsyHatoUFvFk-HpQig6ns/edit?usp=sharing)
+- [ml5.js data collection, model training, model deployment walk-through from class)](https://github.com/shiffman/ml5-neural-network-example)
 
 ## ml5.neuralNetwork()
 
