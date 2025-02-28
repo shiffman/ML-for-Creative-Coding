@@ -22,11 +22,20 @@
 
 - [Training a Model Guide](https://www.tensorflow.org/js/guide/train_models#:~:text=In%20TensorFlow,train%20a%20machine%20learning%20model)
 
-### Core concepts
+### Core Concepts
 
-- Models and Layers: [tf.sequential](https://js.tensorflow.org/api/latest/?_gl=1*wrlqe5*_ga*NzEzMzc2NzY2LjE3MzMzNTU0ODM.*_ga_W0YLR4190T*MTc0MDYxOTM1OC41LjEuMTc0MDYxOTQwMS4wLjAuMA..#sequential), [tf.layers](https://js.tensorflow.org/api/latest/?_gl=1*wrlqe5*_ga*NzEzMzc2NzY2LjE3MzMzNTU0ODM.*_ga_W0YLR4190T*MTc0MDYxOTM1OC41LjEuMTc0MDYxOTQwMS4wLjAuMA..#Layers)
-- Tensors and Data Shape: [tf.tensor](https://js.tensorflow.org/api/latest/?_gl=1*wrlqe5*_ga*NzEzMzc2NzY2LjE3MzMzNTU0ODM.*_ga_W0YLR4190T*MTc0MDYxOTM1OC41LjEuMTc0MDYxOTQwMS4wLjAuMA..#tensor)
-- activation functions, loss functions, optimizers, validation split, epochs, batch size, and more!
+- [tf.sequential](https://js.tensorflow.org/api/latest/?_gl=1*wrlqe5*_ga*NzEzMzc2NzY2LjE3MzMzNTU0ODM.*_ga_W0YLR4190T*MTc0MDYxOTM1OC41LjEuMTc0MDYxOTQwMS4wLjAuMA..#sequential): A simple neural network model where layers are stacked in order.
+- [tf.layers](https://js.tensorflow.org/api/latest/?_gl=1*wrlqe5*_ga*NzEzMzc2NzY2LjE3MzMzNTU0ODM.*_ga_W0YLR4190T*MTc0MDYxOTM1OC41LjEuMTc0MDYxOTQwMS4wLjAuMA..#Layers): Individual building blocks of a neural network, such as dense layers or convolutional layers.
+  - **Dense Layer**: A fully connected neural network layer where each neuron connects to all neurons in the previous layer.
+- [tf.tensor](https://js.tensorflow.org/api/latest/?_gl=1*wrlqe5*_ga*NzEzMzc2NzY2LjE3MzMzNTU0ODM.*_ga_W0YLR4190T*MTc0MDYxOTM1OC41LjEuMTc0MDYxOTQwMS4wLjAuMA..#tensor) - Data structure for multi-dimensional array
+- **Optimizer**: An algorithm that updates the model’s weights to minimize the loss function, e.g. `'adam'`.
+- **Loss Function**: Measures how far the model's predictions are from the actual values.
+- **Activation Function**: Function for the neuron outputs!
+  - **Softmax Function**: Converts model outputs into probabilities for classification tasks.
+  - **ReLU (Rectified Linear Unit)**: Activation function that allows positive values to pass unchanged while setting negative values to zero.
+- **Epoch**: One full pass through the entire training dataset during training.
+- **Batch Size**: The number of training examples used in a single training step.
+- **One-Hot Encoding**: Representing categorical labels as binary vectors.
 
 ### Code
 
