@@ -14,7 +14,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 4: Feb 21 - [Training a Neural Network II](05-cnns)
 
-### 6: Feb 28 - TensorFlow.js and Feature Extraction
+### 6: Feb 28 - [TensorFlow.js and Feature Extraction](06-tensorflow)
 
 ### 7: Mar 7 - Mid Semester Project Presentations
 
