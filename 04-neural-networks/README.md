@@ -1,7 +1,6 @@
 # Training a Neural Network
 
 - [Neural Network Slides](https://docs.google.com/presentation/d/1NqBjHPStaYl2vlZKPisLp4XsyHatoUFvFk-HpQig6ns/edit?usp=sharing)
-- [ml5.js data collection, model training, model deployment walk-through from class)](https://github.com/shiffman/ml5-neural-network-example)
 
 ## ml5.neuralNetwork()
 
@@ -10,6 +9,25 @@
 - [NeuralNetwork - Mouse Gesture](https://editor.p5js.org/ml5/sketches/FdXAgrA3N)
 - [NeuralNetwork - Train and Save](https://editor.p5js.org/ml5/sketches/rR51vvi-u)
 - [NeuralNetwork - Load Model](https://editor.p5js.org/ml5/sketches/U-aljtx7x)
+
+## Code Examples
+
+### GitHub Repo
+
+- [ml5.js Pose Classifier: data collection, model training, model deployment](https://github.com/shiffman/ml5-neural-network-example/tree/main/ml5js/pose-classifier)
+- [ml5.js Pose Regression Model: data collection, model training, model deployment](https://github.com/shiffman/ml5-neural-network-example/tree/main/ml5js/pose-regression)
+
+### p5.js Web Editor
+
+#### Classification
+- [Data Collection](https://editor.p5js.org/ml_4_cc/sketches/mhNTFKLpz)
+- [Train Model](https://editor.p5js.org/ml_4_cc/sketches/TN9d52IcI)
+- [Deploy Model](https://editor.p5js.org/ml_4_cc/sketches/NPIxC0u--D)
+
+#### Regression
+- [Data Collection](https://editor.p5js.org/ml_4_cc/sketches/vRMRtbVWR)
+- [Train Model](https://editor.p5js.org/ml_4_cc/sketches/g8wddLHmj)
+- [Deploy Model](https://editor.p5js.org/ml_4_cc/sketches/_BMeZFMcc)
 
 ## Supplemental Materials
 
