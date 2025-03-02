@@ -1,5 +1,7 @@
 ## Machine Learning Sketch
 
+**Due Thursday March 7**: [Documentation Page](https://github.com/shiffman/ML-for-Creative-Coding/wiki/ML-Sketch).
+
 Now is the time to take the concepts from the first six weeks and apply them to a project idea. This "mid-semester exercise" can be anything that builds off of or is inspired by the material. It does not need to be a "fully realized thing"—it can be a visual experiment in progress or a piece of a larger project you are building for another context (thesis, another class, etc.). It can be a continuation of one of your previous exercises that further develops the concepts there, perhaps inspired by feedback you received or any lingering ideas you want to explore.
 
 You should also feel free to think non-traditionally. Your project does not need to be a p5.js sketch and is not specifically required to use web-based ML such as ml5.js, transformers.js, or TensorFlow.js. Think about how machine learning models and concepts can be applied in unexpected ways.
