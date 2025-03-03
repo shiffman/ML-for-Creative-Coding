@@ -1,37 +1,9 @@
 # TensorFlow.js
 
-## Pre-Trained Models
-
-- [TensorFlow.js Models](https://github.com/tensorflow/tfjs-models)
-
-### Object Detection
-
-**Resources**
-
-- [TensorFlow Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/README.md)
-- [TensorFlow.js coco-ssd documentation](https://github.com/tensorflow/tfjs-models/blob/master/coco-ssd/README.md)
-
-**Examples**
-
-- [COCO-SSD image with p5.js](https://editor.p5js.org/ml_4_cc/sketches/mnLF9Iu4V)
-- [COCO-SSD video with p5.js](https://editor.p5js.org/ml_4_cc/sketches/-Yt7vSA5U)
-
-### Image Segmentation
-
-**Resources**
-
-- [Semantic Segmentation in the Browser: DeepLab v3 Model](https://github.com/tensorflow/tfjs-models/blob/master/deeplab/README.md)
-
-**Examples**
-
-- [DeepLabv3 Segmentation image with p5.js](https://editor.p5js.org/ml_4_cc/sketches/9lNNLp0UY)
-- [DeepLabv3 Segmentation live video with p5.js](https://editor.p5js.org/ml_4_cc/sketches/sb3fNHVzc)
-- [DeepLabv3 Segmentation recorded video with p5.js](https://editor.p5js.org/ml_4_cc/sketches/xILkf9Eo3)
-
 ## Training a Neural Network in TensorFlow.js
 
-- [Training a Model Guide](https://www.tensorflow.org/js/guide/train_models#:~:text=In%20TensorFlow,train%20a%20machine%20learning%20model)
-- [All Coding Train TensorFlow.js Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
+- 📋 [Training a Model Guide](https://www.tensorflow.org/js/guide/train_models#:~:text=In%20TensorFlow,train%20a%20machine%20learning%20model)
+- 🚂 [All Coding Train TensorFlow.js Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ)
 
 ### Core Concepts
 
@@ -52,42 +24,67 @@
 
 ### Code Examples
 
-- [Hand Pose Classifier with TensorFlow.js](https://github.com/shiffman/ml5-neural-network-example/tree/main/tfjs)
+- 💻 [Hand Pose Classifier with TensorFlow.js](https://github.com/shiffman/ml5-neural-network-example/tree/main/tfjs)
 
-## Other Demonstrations
-
-### Feature Extraction
+## Feature Extraction with TensorFlow.js
 
 **Resources**
 
-- [Transfer learning image classifier](https://www.tensorflow.org/js/tutorials/transfer/image_classification#:~:text=In%20this%20tutorial%2C%20you%20will,js)
-- [How to make your own Teachable Machine in TensorFlow.js](https://codelabs.developers.google.com/tensorflowjs-transfer-learning-teachable-machine)
-- [Cosine Similarity Video Tutorial](https://youtu.be/e9U0QAFbfLI)
-- [Google Arts & Culture | X Degrees of Separation](https://artsexperiments.withgoogle.com/xdegrees/)
+- 📋 [What is Transfer learning?](https://www.tensorflow.org/js/tutorials/transfer/what_is_transfer_learning)
+- 📋 [How to make your own Teachable Machine in TensorFlow.js](https://codelabs.developers.google.com/tensorflowjs-transfer-learning-teachable-machine)
+- 🎥 [Cosine Similarity Video Tutorial](https://youtu.be/e9U0QAFbfLI)
 
 **Examples**
 
-- [Simple p5.js Teachable Machine](https://github.com/shiffman/ml5-neural-network-example/tree/main/tfjs/teachable-machine)
-- [Image Similarity with MobileNet and TensorFlow.js](https://github.com/shiffman/ml-for-creative-coding-examples/tree/main/tfjs/image-similarity)
+- 💻 [Simple p5.js Teachable Machine](https://github.com/shiffman/ml5-neural-network-example/tree/main/tfjs/teachable-machine)
+- 💻 [Calculating Image Similarity (MobileNet and TensorFlow.js)](https://github.com/shiffman/ml-for-creative-coding-examples/tree/main/tfjs/image-similarity)
 
 ### Autoencoders
 
 **Resources**
 
-- [2 Minute Papers Autoencoder Video](https://youtu.be/Rdpbnd0pCiI)
-- [Building an Autoencoder in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
-- [Coding Train Autoencoder Repo](https://github.com/CodingTrain/Auto-Encoder-Demo) ([part 1](https://www.youtube.com/watch?v=Y9w2PYfIf34), [part 2](https://www.youtube.com/watch?v=SA7W7rlyc3c), [part 3](https://www.youtube.com/watch?v=Ppif4qdW2pE))
+- 🎥 [2 Minute Papers Autoencoder Video](https://youtu.be/Rdpbnd0pCiI)
+- 📋 [Building an Autoencoder in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+- 💻 [Coding Train Autoencoder Repo](https://github.com/CodingTrain/Auto-Encoder-Demo) 🚂 live stream archives: ([part 1](https://www.youtube.com/watch?v=Y9w2PYfIf34), [part 2](https://www.youtube.com/watch?v=SA7W7rlyc3c), [part 3](https://www.youtube.com/watch?v=Ppif4qdW2pE))
 
 **Examples**
 
-- [TensorFlow.js Autoencoder Example](https://github.com/shiffman/ml-for-creative-coding-examples/tree/main/tfjs/autoencoder)
+- 💻 [TensorFlow.js Autoencoder](https://github.com/shiffman/ml-for-creative-coding-examples/tree/main/tfjs/autoencoder)
+
+## Pre-Trained Models
+
+- 🗒️ [TensorFlow.js Models](https://github.com/tensorflow/tfjs-models)
+
+### Object Detection
+
+**Resources**
+
+- 🗒️ [TensorFlow Object Detection API](https://github.com/tensorflow/models/blob/master/research/object_detection/README.md)
+- 🗒️ [TensorFlow.js coco-ssd documentation](https://github.com/tensorflow/tfjs-models/blob/master/coco-ssd/README.md)
+
+**Examples**
+
+- 💻 [COCO-SSD image with p5.js](https://editor.p5js.org/ml_4_cc/sketches/mnLF9Iu4V)
+- 💻 [COCO-SSD video with p5.js](https://editor.p5js.org/ml_4_cc/sketches/-Yt7vSA5U)
+
+### Image Segmentation
+
+**Resources**
+
+- 🗒️ [Semantic Segmentation in the Browser: DeepLab v3 Model](https://github.com/tensorflow/tfjs-models/blob/master/deeplab/README.md)
+
+**Examples**
+
+- 💻 [DeepLabv3 Segmentation image with p5.js](https://editor.p5js.org/ml_4_cc/sketches/9lNNLp0UY)
+- 💻 [DeepLabv3 Segmentation live video with p5.js](https://editor.p5js.org/ml_4_cc/sketches/sb3fNHVzc)
+- 💻 [DeepLabv3 Segmentation recorded video with p5.js](https://editor.p5js.org/ml_4_cc/sketches/xILkf9Eo3)
 
 ## Creative Projects and Inspiration
 
-- [Google Arts & Culture | X Degrees of Separation](https://artsexperiments.withgoogle.com/xdegrees/)
-- [Veremin: Digital Theremin](https://vabarbosa.com/veremin/)
-- [Generating Abstract Patterns with TensorFlow](https://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)
-- [Time Series Forecasting with TensorFlow.js](https://jinglescode.github.io/time-series-forecasting-tensorflowjs/)
+- 🎨 [Google Arts & Culture | X Degrees of Separation](https://artsexperiments.withgoogle.com/xdegrees/)
+- 🎶 [Veremin: Digital Theremin](https://vabarbosa.com/veremin/)
+- 🎨 [Generating Abstract Patterns with TensorFlow](https://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)
+- 🔢 [Time Series Forecasting with TensorFlow.js](https://jinglescode.github.io/time-series-forecasting-tensorflowjs/)
 
 ## Assignment
 
