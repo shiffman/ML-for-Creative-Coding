@@ -16,9 +16,9 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 6: Feb 28 - [TensorFlow.js and Feature Extraction](06-tensorflow)
 
-### 7: Mar 7 - ML Sketch Presentations
+### 7: Mar 7 - [ML Sketch Presentations](projects/ml-sketch)
 
-### 8: Mar 14 - Transformers.js
+### 8: Mar 14 - [Transformers.js](08-transformers-js)
 
 ### 9: Mar 21 - Generative Models: Language, Image, Video
 
