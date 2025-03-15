@@ -13,6 +13,9 @@
 
 - 🎮 [Doodle Dash with Transformers.js](https://huggingface.co/blog/ml-web-games)
 - 🖼️ [NYU Shanghai DURF research project on Image Segmentation with transformers.js](https://github.com/ml5js/ml5-extra-imagesegmentation)
+- [Real-time zero-shot image classification](https://huggingface.co/spaces/Xenova/webgpu-mobileclip)
+- [Semantic Image Search](https://huggingface.co/spaces/Xenova/semantic-image-search-client), [Unsplash Dataset](https://unsplash.com/data), [Model Documentation Reference](https://huggingface.co/Xenova/clip-vit-base-patch16)
+- [Real-Time Depth Estimator Demo with p5.js](https://editor.p5js.org/alanvww/sketches/b8RM13-A2) by Alan Ren
 
 ### Code Examples
 
@@ -25,7 +28,7 @@
 - [Reasoning Models](https://editor.p5js.org/xenova/sketches/DTztSM0uI)
 - [Automatic Speech Recognition](https://editor.p5js.org/xenova/sketches/_6ommTYcR)
 - [Image Classification](https://editor.p5js.org/xenova/sketches/Sv2Jltdu5)
-- (Advanced) [Text-to-speech](https://editor.p5js.org/xenova/sketches/GUp3uk0oO)
+- (w/o pipeline) [Text-to-speech](httgps://editor.p5js.org/xenova/sketches/GUp3uk0oO)
 
 ## Additional JS concepts for Transformers.js
 
