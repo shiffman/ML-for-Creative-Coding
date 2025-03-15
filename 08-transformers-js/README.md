@@ -6,6 +6,7 @@
 - 💻 [Transformers.js GitHub Repository](https://github.com/huggingface/transformers.js)
 - 📰 [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](https://huggingface.co/blog/transformersjs-v3)
 - 🔍 [Transformers.js Examples and Demos](https://github.com/huggingface/transformers.js-examples)
+- 📝 [Transformers.js Slides](https://docs.google.com/presentation/d/1-AldQVSrQ12mG2T-xAUmp5YiuRLg5LuifkS60uG55D4/edit?usp=sharing)
 - 📦 [Official npm package](https://www.npmjs.com/package/@huggingface/transformers)
 
 ## JavaScript for Transformers.js
@@ -32,12 +33,16 @@
 - [Depth Estimation - Image](https://editor.p5js.org/ml_4_cc/sketches/qtnSdaa2h)
 - [Depth Estimation - Video](https://editor.p5js.org/ml_4_cc/sketches/J-sk5hOWz)
 - [Text Generator](https://editor.p5js.org/ml_4_cc/sketches/o7C5EfNtt)
+- [Reasoning Models](https://editor.p5js.org/xenova/sketches/DTztSM0uI)
+- [Automatic Speech Recognition](https://editor.p5js.org/xenova/sketches/_6ommTYcR)
+- [Image Classification](https://editor.p5js.org/xenova/sketches/Sv2Jltdu5)
+- (Advanced) [Text-to-speech](https://editor.p5js.org/xenova/sketches/GUp3uk0oO)
 
 ## Assignment
 
 For this week's assignment:
 
-1. Choose any model available in Transformers.js and create a p5.js sketch using it. Try [any transformer.sj compatible model](https://huggingface.co/models?library=transformers.js&sort=trending)! Some things you might look for are:
+1. Choose any model available in Transformers.js and create a p5.js sketch using it. Try [any transformers.js compatible model](https://huggingface.co/models?library=transformers.js&sort=trending)! Some things you might look for are:
 
    - **Object Detection**: 🕵️ Detect objects in an image.
    - **Image Segmentation**: ✂️ Segment an image into parts.
