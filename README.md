@@ -18,7 +18,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 7: Mar 7 - [ML Sketch Presentations](projects/ml-sketch)
 
-### 8: Mar 14 - Transformers.js
+### 8: Mar 14 - [Transformers.js](08-transformers-js)
 
 ### 9: Mar 21 - Generative Models: Language, Image, Video
 
