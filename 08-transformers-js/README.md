@@ -28,7 +28,7 @@
 - [Reasoning Models](https://editor.p5js.org/xenova/sketches/DTztSM0uI)
 - [Automatic Speech Recognition](https://editor.p5js.org/xenova/sketches/_6ommTYcR)
 - [Image Classification](https://editor.p5js.org/xenova/sketches/Sv2Jltdu5)
-- (w/o pipeline) [Text-to-speech](httgps://editor.p5js.org/xenova/sketches/GUp3uk0oO)
+- (w/o pipeline) [Text-to-speech](https://editor.p5js.org/xenova/sketches/GUp3uk0oO)
 
 ## Additional JS concepts for Transformers.js
 
