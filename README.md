@@ -20,15 +20,15 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 8: Mar 14 - [Transformers.js](08-transformers-js)
 
-### 9: Mar 21 - Generative Models: Language, Image, Video
+### 9: Mar 21 - Embeddings: Semantic Search and Visualization
 
 ### SPRING BREAK
 
-### 10: Apr 4 - Fine-Tuning Models
+### 10: Apr 4 - Generative Modelas and APIs
 
-### 11: Apr 11 - Final Project Proposals
+### 11: Apr 11 - Fine-Tuning + Final Project Proposals
 
-### 11: Apr 18 - Final Project Proposals
+### 11: Apr 18 - TBD + Final Project Proposals
 
 ### 13: Apr 25 - Final Project Workshop
 
