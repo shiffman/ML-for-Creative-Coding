@@ -27,7 +27,8 @@
 - [Text Generator](https://editor.p5js.org/ml_4_cc/sketches/o7C5EfNtt)
 - [Reasoning Models](https://editor.p5js.org/xenova/sketches/DTztSM0uI)
 - [Automatic Speech Recognition](https://editor.p5js.org/xenova/sketches/_6ommTYcR)
-- [Image Classification](https://editor.p5js.org/xenova/sketches/Sv2Jltdu5)
+- [Image Classification](https://editor.p5js.org/xenova/sketches/Sv2Jltdu5) (pre-trained model)
+- [Image Classification with Zero Shot Labels!](https://editor.p5js.org/ml_4_cc/sketches/DbNwvgglU)
 - (w/o pipeline) [Text-to-speech](https://editor.p5js.org/xenova/sketches/GUp3uk0oO)
 
 ## Additional JS concepts for Transformers.js
