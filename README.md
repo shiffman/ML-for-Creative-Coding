@@ -20,7 +20,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 8: Mar 14 - [Transformers.js](08-transformers-js)
 
-### 9: Mar 21 - Embeddings: Semantic Search and Visualization
+### 9: Mar 21 - [Embeddings: Semantic Search and Visualization](09-embeddings)
 
 ### SPRING BREAK
 
