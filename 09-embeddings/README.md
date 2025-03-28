@@ -45,8 +45,8 @@
 
 The goal of this week's assignment is to make forward progress on your work, and the assignment is intended to be highly flexible and exploratory. Consider the following three options:
 
-1. Continue exploring [any transformer.js compatible model](https://huggingface.co/models?library=transformers.js&sort=trending) with p5.js. Compare your experience working with transformers.js to ml5.js or TensorFlow.js. Document any errors or challenges you encounter.
-2. Focus specifically on embeddings with transformers.js (you could also revisit embeddings with TensorFlow.js or other ML platforms). Build upon the semantic search or zero-shot classification/object detection examples provided. If you're interested, you could also experiment with visualizing embeddings through clustering, using the provided examples and resources, even though we didn't get to cover clustering in class.
+1. Continue exploring [any transformer.js compatible model](https://huggingface.co/models?library=transformers.js&sort=trending) with p5.js ([see last week's material](https://github.com/shiffman/ML-for-Creative-Coding/tree/main/08-transformers-js)). Compare your experience working with transformers.js to ml5.js or TensorFlow.js. Document any errors or challenges you encounter.
+2. Focus specifically on embeddings with transformers.js (you could also revisit embeddings with TensorFlow.js or other ML platforms). Build upon [the semantic search or zero-shot classification/object detection examples](#code-examples) provided. If you're interested, although we didn't get to cover this in class, you could also experiment with [visualizing embeddings through clustering](#clustering-with-umap-dimensionality-reduction).
 3. If you already have an idea for your final project or prefer to continue developing a previous assignment or experiment, this is also encouraged.
 
 Please post your work and documentation to the [Assignment 6 Wiki page](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-6). Have fun exploring!
