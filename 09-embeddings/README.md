@@ -25,7 +25,11 @@
 
 - 💻 [Comparison Matrix](https://editor.p5js.org/ml_4_cc/sketches/QT7LqyzoE)
 - 💻 [Semantic Search Text](https://editor.p5js.org/ml_4_cc/sketches/MhXel085k)
-- 💻 [Semantic Search Images with multimodal model](https://github.com/shiffman/Semantic-Search-Images)
+- 💻 [Zero Shot Image Classification](https://editor.p5js.org/ml_4_cc/sketches/DbNwvgglU) - uses CLIP multi-modal model
+- 💻 [Zero Shot Object Detection](https://editor.p5js.org/ml_4_cc/sketches/Pwp6TtHGT)
+- 💻 [Simple Text Semantic Search with 10 images](https://editor.p5js.org/ml_4_cc/sketches/s_u_1-udh)
+- 💻 [Simple Image Semantic Search with 10 images](https://editor.p5js.org/ml_4_cc/sketches/CWE6Ox_jd)
+- 💻 [Semantic Search with 25k images - deployed](https://sem-search-tfjs.netlify.app/), [Semantic Search Image - Github Repo](https://github.com/shiffman/Semantic-Search-Images)
 
 ## Clustering with UMAP dimensionality reduction
 
@@ -39,4 +43,10 @@
 
 ## Assignment
 
-- TBA
+The goal of this week's assignment is to make forward progress on your work, and the assignment is intended to be highly flexible and exploratory. Consider the following three options:
+
+1. Continue exploring [any transformer.js compatible model](https://huggingface.co/models?library=transformers.js&sort=trending) with p5.js. Compare your experience working with transformers.js to ml5.js or TensorFlow.js. Document any errors or challenges you encounter.
+2. Focus specifically on embeddings with transformers.js (you could also revisit embeddings with TensorFlow.js or other ML platforms). Build upon the semantic search or zero-shot classification/object detection examples provided. If you're interested, you could also experiment with visualizing embeddings through clustering, using the provided examples and resources, even though we didn't get to cover clustering in class.
+3. If you already have an idea for your final project or prefer to continue developing a previous assignment or experiment, this is also encouraged.
+
+Please post your work and documentation to the [Assignment 6 Wiki page](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-6). Have fun exploring!
