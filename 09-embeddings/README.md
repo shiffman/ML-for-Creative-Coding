@@ -49,4 +49,4 @@ The goal of this week's assignment is to make forward progress on your work, and
 2. Focus specifically on embeddings with transformers.js (you could also revisit embeddings with TensorFlow.js or other ML platforms). Build upon [the semantic search or zero-shot classification/object detection examples](#code-examples) provided. If you're interested, although we didn't get to cover this in class, you could also experiment with [visualizing embeddings through clustering](#clustering-with-umap-dimensionality-reduction).
 3. If you already have an idea for your final project or prefer to continue developing a previous assignment or experiment, this is also encouraged.
 
-Please post your work and documentation to the [Assignment 6 Wiki page](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-6). Have fun exploring!
+Please post your work and documentation to the [Assignment 6 Wiki page](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Assignment-6).
