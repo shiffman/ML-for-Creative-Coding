@@ -24,11 +24,11 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### SPRING BREAK
 
-### 10: Apr 4 - Generative Modelas and APIs
+### 10: Apr 4 - [Language Models and APIs](10-llms)
 
-### 11: Apr 11 - Fine-Tuning + Final Project Proposals
+### 11: Apr 11 - Image Generation Models and APIs + Final Project Proposals
 
-### 11: Apr 18 - TBD + Final Project Proposals
+### 11: Apr 18 - Fine-Tuning Models + Final Project Proposals
 
 ### 13: Apr 25 - Final Project Workshop
 
