@@ -15,6 +15,7 @@
 - 📝 [Embeddings tutorial](https://docs.cohere.com/docs/text-embeddings) from Cohere
 - 📚 [What are embeddings?](https://vickiboykis.com/what_are_embeddings/) by Vicki Boykis
 - 📚 [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
+- 📊 [Embedding Projector](https://projector.tensorflow.org/)
 
 ## Semantic Search and "Similarity"
 
