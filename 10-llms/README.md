@@ -71,3 +71,7 @@ _These examples require working with p5.js locally on your computer and outside 
 - [Chatbot with Conversation History](https://editor.p5js.org/ml_4_cc/sketches/9p1iIuauz)
 - [Text Completion](https://editor.p5js.org/ml_4_cc/sketches/hTbzuq37iJ)
 - [Reasoning Models](https://editor.p5js.org/xenova/sketches/DTztSM0uI)
+
+## Assignment
+
+- Create a final project proposal. See [final project guidelines](https://github.com/shiffman/ML-for-Creative-Coding/blob/main/projects/final/README.md). Submit a link to your proposal [on the course wiki](https://github.com/shiffman/ML-for-Creative-Coding/wiki/Project-Proposals), project ideas will be shared split over the next two classes (schedule on the wiki).
