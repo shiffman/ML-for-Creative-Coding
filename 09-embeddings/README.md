@@ -29,6 +29,7 @@
 - 💻 [Zero Shot Object Detection](https://editor.p5js.org/ml_4_cc/sketches/Pwp6TtHGT)
 - 💻 [Simple Text Semantic Search with 10 images](https://editor.p5js.org/ml_4_cc/sketches/s_u_1-udh)
 - 💻 [Simple Image Semantic Search with 10 images](https://editor.p5js.org/ml_4_cc/sketches/CWE6Ox_jd)
+- 💻 [Processing dataset to create Embeddings Database with node.js](https://github.com/shiffman/create-embeddings-database)
 - 💻 [Semantic Search with 25k images - deployed](https://sem-search-tfjs.netlify.app/), [Semantic Search Image - Github Repo](https://github.com/shiffman/Semantic-Search-Images)
 
 ## Clustering with UMAP dimensionality reduction
