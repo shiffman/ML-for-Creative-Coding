@@ -26,13 +26,13 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 10: Apr 4 - [Language Models and APIs](10-llms)
 
-### 11: Apr 11 - Image Generation Models and APIs + Final Project Proposals
+### 11: Apr 11 - Image Generation Models and APIs + [Final Project Proposals](projects/final)
 
-### 11: Apr 18 - Fine-Tuning Models + Final Project Proposals
+### 11: Apr 18 - Fine-Tuning Models + [Final Project Proposals](projects/final)
 
-### 13: Apr 25 - Final Project Workshop
+### 13: Apr 25 - [Final Project Workshop](projects/final)
 
-### 14: May 2 - Final Project Presentations
+### 14: May 2 - [Final Project Presentations](projects/final)
 
 ## Course Description
 
