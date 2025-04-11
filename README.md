@@ -26,7 +26,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 10: Apr 4 - [Language Models and APIs](10-llms)
 
-### 11: Apr 11 - Image Generation Models and APIs + [Final Project Proposals](projects/final)
+### 11: Apr 11 - [Image Generation Models and APIs](11-image-models) + [Final Project Proposals](projects/final)
 
 ### 11: Apr 18 - Fine-Tuning Models + [Final Project Proposals](projects/final)
 
