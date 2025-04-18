@@ -28,7 +28,7 @@ _This is a evolving document and is subject to change (lots of change!)_
 
 ### 11: Apr 11 - [Image Generation Models and APIs](11-image-models) + [Final Project Proposals](projects/final)
 
-### 11: Apr 18 - Fine-Tuning Models + [Final Project Proposals](projects/final)
+### 11: Apr 18 - [Fine-Tuning Models](12-fine-tuning) + [Final Project Proposals](projects/final)
 
 ### 13: Apr 25 - [Final Project Workshop](projects/final)
 
